@@ -3,14 +3,14 @@
 ## Intro
 
 + A Spring Boot + React project which can extract media(image, video, GIF) from tweets and do format conversion.
++ The front end part: go to `twitterdownloader-front-local`
 
 ### Deployment
 
 + Requirement:
   + nodejs >= 21.1.0
   + npm >= 10.2.0
-  + java 17
-  + maven
+  + java == 17
   + MySQL == 8.0.29
   + Redis == 7.2.1
 
